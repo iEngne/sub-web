@@ -256,7 +256,7 @@ export default {
         },
         customBackend: {
           "localhost:25500 本地版": "http://localhost:25500/sub?",
-	  "subc-now.vercel.app": "https://subc-now.vercel.app/sub?",
+          "subc-now.vercel.app": "https://subc-now.vercel.app/sub?",
           "sub-beta.vercel.app": "https://sub-beta.vercel.app/sub?",
           "subcon.dlj.tf(subconverter作者提供-稳定)":
             "https://subcon.dlj.tf/sub?",
@@ -266,7 +266,7 @@ export default {
         },
         backendOptions: [
           { value: "http://localhost:25500/sub?" },
-	  { value: "https://subc-now.vercel.app/sub?" },
+          { value: "https://subc-now.vercel.app/sub?" },
           { value: "https://sub-beta.now.sh/sub?" },
           { value: "https://subcon.dlj.tf/sub?" },
           { value: "https://api.dler.io/sub?" },
