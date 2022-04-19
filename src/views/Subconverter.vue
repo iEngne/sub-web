@@ -561,7 +561,7 @@ export default {
   mounted() {
     this.form.clientType = "clash";
     this.form.customBackend = defaultBackend;
-    this.form.remoteConfig = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini";
+    this.form.remoteConfig = "https://raw.githubusercontent.com/iEngne/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_AdblockPlus_modify.ini";
     this.getBackendVersion();
   },
   methods: {
